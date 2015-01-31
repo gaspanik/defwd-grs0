@@ -1,0 +1,16 @@
+{
+  "name": "defwd-grs0",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "Masaaki Komori",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-ruby-sass": "^0.7.1"
+  }
+}
